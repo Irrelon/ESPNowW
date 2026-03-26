@@ -5,13 +5,18 @@
     "repository":
     {
       "type": "git",
-      "url": "https://github.com/regenbogencode/ESPNowW.git"
+      "url": "https://github.com/irrelon/ESPNowW.git"
     },
     "authors":
     [
       {
         "name": "Regenbogencode",
         "email": "regenbogencode@gmail.com",
+        "maintainer": false
+      },
+      {
+        "name": "Rob Evans",
+        "email": "rob@irrelon.com",
         "maintainer": true
       }
     ],
@@ -19,7 +24,7 @@
     {
 
     },
-    "version": "1.0.2",
+    "version": "2.0.0",
     "frameworks": "arduino",
     "platforms": "esp32,esp8266"
   }

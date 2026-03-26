@@ -2,6 +2,10 @@
 
 The ESPNowW is a ESPNow wrapper library designed for Arduino/Platformio
 
+## Update 2026
+Updated this to work with the latest version of the Arduino ESP32 core (3.x) where MAC functionality is 
+moved from `esp_system.h` to `esp_mac.h` headers.
+
 ## About
 There are small differences between the ESPNow libraries for the esp8266 and esp32. This library unifies and simplifies the access in an arduino manner. 
 

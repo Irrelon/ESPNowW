@@ -9,6 +9,7 @@
 #include <cstring>
 #include <list>
 #include <esp_system.h>
+#include <esp_mac.h>
 class ESPNowW32 : public IESPNowW {
   public:
     virtual esp_err_t add_peer(uint8_t *mac, int channel);

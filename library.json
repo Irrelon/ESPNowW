@@ -1,7 +1,7 @@
 {
     "name": "ESPNowW",
     "keywords": "ESPNow, IOT, esp, ESPNowW, wireless",
-    "description": "The ESPNowW is a ESPNow wrapper library designed for Arduino/Platformio",
+    "description": "The ESPNowW is a ESPNow wrapper library designed for Arduino/Platformio. This is an updated version for Arduino ESP32 core 3.x as the original only works with 2.x.",
     "repository":
     {
       "type": "git",
